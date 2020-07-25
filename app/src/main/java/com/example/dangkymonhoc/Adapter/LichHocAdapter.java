@@ -51,7 +51,7 @@ public class LichHocAdapter extends BaseAdapter {
         tvMonHoc = view.findViewById(R.id.tvMonHoc);
         tvGiangVien = view.findViewById(R.id.tvGiangVien);
         tvCaHoc = view.findViewById(R.id.tvCaHoc);
-
+// 11111111111111111
 //        tvNgayHoc.setText(listLichHoc.get(i).getNgayHoc());
         tvLopHoc.setText((listLichHoc.get(i).getLopHoc()));
         tvMonHoc.setText(listLichHoc.get(i).getMonHoc());
